@@ -59,6 +59,7 @@ O software **RADEFI** possui registro no **INPI (Instituto Nacional da Proprieda
 1. Clone o repositório:
 ```bash
 git clone https://github.com/seu-usuario/radefi.git
+cd Radefi
 cd '.\Scripts py\'
 pip install pygame
 python Radefi.py
